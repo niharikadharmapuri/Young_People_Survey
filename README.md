@@ -15,6 +15,3 @@ Now  run the code on the browser. You would see the accuracy results
 
 Authors:
 Niharika Dharmapuri
-
-License:
-This project is licensed under the MIT License - see the LICENSE.md file for details
